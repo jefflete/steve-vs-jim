@@ -1,0 +1,22 @@
+{
+  "name": "steve-vs-jim",
+  "version": "1.0.0",
+  "description": "2020 election simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefflete/steve-vs-jim.git"
+  },
+  "author": "jefflete",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefflete/steve-vs-jim/issues"
+  },
+  "homepage": "https://github.com/jefflete/steve-vs-jim#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
